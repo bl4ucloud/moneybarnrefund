@@ -1,2 +1,0 @@
-# moneybarnrefund
-My awesome repository
